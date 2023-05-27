@@ -1709,7 +1709,7 @@ components:
       properties:
         title:
           type: string
-          example: sssssssssssssssssssssssssss
+          example: ddddddddddssssssss
         name:
           type: string
           example: ssssssssssssssssssssssssssssss
