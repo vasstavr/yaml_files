@@ -1709,13 +1709,13 @@ components:
       properties:
         title:
           type: string
-          example: Ξ ΞΞΞ€ΞΞΞΞΞΞΞ₯ ΞΞΞΞΞ€Ξ‘ΞΞ£
+          example: sssssssssssssssssssssssssss
         name:
           type: string
-          example: Ξ ΞΞΞ€ΞΞΞΞΞΞΞ₯ ΞΞΞΞΞ€Ξ‘ΞΞ£
+          example: ssssssssssssssssssssssssssssss
         addressLine1:
           type: string
-          example: ΞΞΞ©Ξ¦ΞΞ‘ΞΞ£ ΞΞΞ‘ΞΞΞΞ£ 28
+          example: sssssssssssssssssssssssssss 28
         addressLine2:
           type: string
         postalCode:
