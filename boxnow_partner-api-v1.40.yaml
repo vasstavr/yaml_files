@@ -1104,8 +1104,8 @@ paths:
             ```
             partner_name,sender_info_raw,sender_name,sender_address,sender_contact_phone,sender_email,recipient_info_raw,recipient_name,recipient_phone,recipient_email,parcel_number,order_number,delivery_address,delivery_partner_name,depot_public_id,destination_public_id,lane,weight_kg,payment_mode,amount_to_collect,currency
             Partner 1,"Partner 1
-            Ξ£ΞΞΞ©ΞΞΞ£ 12
-            10673 ΞΞΞΞΞ
+            wwwwwwwwwww 12
+            10673 wwwwwwww
             210-XXXXXXX
             email@partner.gr",Sender Nowak,"street city zip",+420773178937,email@sender.gr,"John Doe
             +420773178937
