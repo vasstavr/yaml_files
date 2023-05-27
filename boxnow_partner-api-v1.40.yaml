@@ -1104,8 +1104,8 @@ paths:
             ```
             partner_name,sender_info_raw,sender_name,sender_address,sender_contact_phone,sender_email,recipient_info_raw,recipient_name,recipient_phone,recipient_email,parcel_number,order_number,delivery_address,delivery_partner_name,depot_public_id,destination_public_id,lane,weight_kg,payment_mode,amount_to_collect,currency
             Partner 1,"Partner 1
-            wwwwwwwwwww 12
-            10673 wwwwwwww
+            ddddddddddddd12
+            10673 ddddddddddddddddddd
             210-XXXXXXX
             email@partner.gr",Sender Nowak,"street city zip",+420773178937,email@sender.gr,"John Doe
             +420773178937
@@ -1709,13 +1709,13 @@ components:
       properties:
         title:
           type: string
-          example: ddddddddddssssssss
+          example: dddddddddddddddddddd
         name:
           type: string
-          example: ssssssssssssssssssssssssssssss
+          example: ddddddddddddddddddddddddd
         addressLine1:
           type: string
-          example: sssssssssssssssssssssssssss 28
+          example: dddddddddddddddddddddddd
         addressLine2:
           type: string
         postalCode:
@@ -1837,7 +1837,7 @@ components:
               - accepted-to-locker
           locationDisplayName:
             type: string
-            example: ΞΞ»Ξ»Ξ·Ξ½ΞΉΞΊΞ¬ Ξ€Ξ±ΟΟΞ΄ΟΞΏΞΌΞ΅Ξ―Ξ±
+            example: dddddddddddddddddddddddddd
             description: Event source location
           postalCode:
             type: string
@@ -2430,7 +2430,7 @@ components:
       in: query
       schema:
         type: string
-        example: Ξ ΞΞΞ€ΞΞΞΞΞΞΞ₯ ΞΞΞΞΞ€Ξ‘ΞΞ£
+        example: dddddddddddddddddddddddddddddddddddd
       description: Return only locations with matching name
     ParcelId:
       name: id
